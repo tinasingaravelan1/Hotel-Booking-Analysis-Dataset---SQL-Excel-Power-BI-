@@ -1,6 +1,6 @@
 # Hotel Booking Analysis Dataset 🏨
 
-Project Overview:
+# Project Overview 
 Analyzed 500+ hotel booking records across 15 countries to uncover revenue patterns, guest behavior and booking channel performance using SQL, Excel and Power BI.
 
 🔍 Key Insights from the Dashboard: 
